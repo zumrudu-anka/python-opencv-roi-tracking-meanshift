@@ -1,5 +1,22 @@
 # 🕵️‍♂️ Region of Interest Tracking With OpenCV
 
+<p align="center">
+    <table align="center">
+        <tr>
+            <th>Input</th>
+            <th>Output</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/zumrudu-anka/python-opencv-roi-tracking/blob/main/resources/gifs/input.gif">
+            </td>
+            <td>
+                <img src="https://github.com/zumrudu-anka/python-opencv-roi-tracking/blob/main/resources/gifs/output.gif">
+            </td>
+        </tr>
+    </table>
+</p>
+
 ### Installation
 
 - Clone the repo to your local machine `git clone https://github.com/zumrudu-anka/python-opencv-roi-tracking.git`
