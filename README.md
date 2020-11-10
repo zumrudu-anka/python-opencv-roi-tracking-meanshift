@@ -1,4 +1,4 @@
-# Region of Interest Tracking With OpenCV
+# 🕵️‍♂️ Region of Interest Tracking With OpenCV
 
 ### Installation
 
